@@ -62,7 +62,7 @@ local function pre_process(msg)
       local superbanned = is_super_banned(user_id)
       local banned = is_banned(user_id, msg.to.id)
       if superbanned or banned then
-        print('User is banned!')
+        print('User is banned')
         kick_user(user_id, msg.to.id)
       end
     end
