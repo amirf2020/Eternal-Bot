@@ -215,14 +215,13 @@ function create_config( )
     "Banhammer",
     "Download",
     "Plugins",
-    "Mastergroup",
+    "MasterGp",
     "AntiSpam",
     "Stats",
     "Version",
     "closeGroup",
     "Maseage",
     "Tagall",
-    
     },
     sudo_users = {184018132},--Sudo users
     disabled_channels = {},
@@ -272,8 +271,7 @@ Tools for @EternalTg :
 >#29.kickall
 >#30.SendPm
 >#31.tagall
->#32.share
-You Can Get Bot version by sending !version,"
+You Can Get Bot version by sending version,"
 Master admin : @Electrovirus ,"
 our channel : @Ev_official ,"
 
