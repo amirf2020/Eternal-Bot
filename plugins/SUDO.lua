@@ -2,10 +2,8 @@ do
 
 function run(msg, matches)
   return [[
-  👥Sudoers of Infernal : 
-  🔭 @ArashInfernal 109722284👥
-  🔭 @Mustafaflux 171604508 👥 
-  🔭 @digitalboys  99743635 👥
+  👥Sudoer Eternal : 
+  🔭Electrovirus 184018132
   ]]
 
   end
