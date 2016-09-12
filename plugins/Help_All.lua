@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 return [[ 
-help For all Plugins of INfernalTG :
+help For all Plugins of EternalTG :
 1./AddBot [Invitelink] : and you can do it with replay
 ======================================================
 2./bot + [botuserID] : allow a bot to join
@@ -12,7 +12,7 @@ help For all Plugins of INfernalTG :
 =====================================================
 6.Auto_Leave : this is not one command , the bot will leave if they add him
 =====================================================
-7./block user [USERID] : block a user !
+7.block user [USERID] : block a user !
 =============================================
 8.whitelist + : enable white list in group
 9.whitelist - : disable whitelist in group
@@ -30,13 +30,7 @@ help For all Plugins of INfernalTG :
 19.kick [ID] : kick user from group
 dont user "!" and "/"for this plug
 ======================================================
-20./calc [numb] +or*or/[numb] :Calculator plugin
-==============================================
-21./Echo [whatever] : return a text
-========================================
-22./Feedback [TEXT] : send maseage to @ARASHINFERNAL
-=================================================
-23./gps (city)\(ZONE) : find a zone in map
+20.calc [numb] +or*or/[numb] :Calculator plugin
 ==============================================
 24./addgroup : add gp to moderation.jsson 
 25./add realm : add group to realm
@@ -118,15 +112,13 @@ dont user "!" and "/"for this plug
 ================================================== 
 95./txt2img [TXT] : text to image 
 ===========================================
-more helps soon
-you can use both "!" and "/"
-our channell : @INFERNALTEAMCH
-Master admin : @ArashInfernal
+our channell : @Ev_official
+Master admin : @Electrovirus
 ]]
 end
 
 return {
-description = "Shows help for all Plugins Of infernalTG", 
+description = "Shows help for all Plugins ", 
 patterns = {
 "^[!/]help (all)$",
 "^help (all)$"
