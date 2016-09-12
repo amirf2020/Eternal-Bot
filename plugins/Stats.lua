@@ -120,7 +120,7 @@ local function run(msg, matches)
         return
       end
     end
-    if matches[2] == "InfernalTG" then -- Put everything you like :)
+    if matches[2] == "Eternal" then -- Put everything you like :)
       if not is_sudo(msg) then
         return "For Sudoers only !"
       else
@@ -141,8 +141,8 @@ return {
     "^[!/]([Ss]tats)$",
     "^[!/]([Ss]tatslist)$",
     "^[!/]([Ss]tats) (group) (%d+)",
-    "^[!/]([Ss]tats) (InfernalTG)",-- Put everything you like :)
-		"^[!/](Infernal)"-- Put everything you like :)
+    "^[!/]([Ss]tats) (Eernal)",-- Put everything you like :)
+		"^[!/](Eternal)"-- Put everything you like :)
     }, 
   run = run
 }
