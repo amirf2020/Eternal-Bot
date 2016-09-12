@@ -28,8 +28,8 @@ lets install the source
 ```bash
 # Source
 cd $HOME
-git clone https://github.com/INFERNALTEAM/InfernalTG.git
-cd InfernalTG
+git clone res link
+cd res name
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # will ask you to Enter a phone number & confirmation code.
