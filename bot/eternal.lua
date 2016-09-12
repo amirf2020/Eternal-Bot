@@ -234,90 +234,21 @@ function create_config( )
     "tagall",
     
     },
-    sudo_users = {25866548},--Sudo users
+    sudo_users = {184018132},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[infernalTG  v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
- 
- our official github :
- https://github.com/INFERNALTEAM/InfernalTG.git
-Antispambot : @InfernalTG
-website ; https://arash-infernal.epage.ir
-Admins
-@Creed_is_dead [Founder]
-@digitalboys [Developer]
-@Arashinfernal [Developer]
-@MustafFlux [Manager]
+    about_text = [[infernalTG  v1 - Private Source
 
-Special thanks to
-Imandaneshi
-thisisarman
-yago perez ...
-and more ...
+Antispambot : @EternalTg
 
 Our channels
-@Infernalteamch [English]
-@infernalchannel [persian]
-@Infernalteam [persian]
+@EV_official
 ]],
     help_text_realm = [[
-group admin Commands:
 
-!creategroup [Name]
-
-!createrealm [Name]
-
-!setname [Name]
-
-!setabout [GroupID] [Text]
-
-!setrules [GroupID] [Text]
-
-!lock [GroupID] [setting]
-
-!unlock [GroupID] [setting]
-
-!wholist
-
-!who
-
-!type
-
-!kill chat [GroupID]
-
-
-!kill realm [RealmID]
-
-!adminprom [id|username]
-
-!admindem [id|username]
-
-!list infernalgroups
-
-!list infernalrealms
-
-!log
-
-!broadcast [text]
-!broadcast InfernalTG !
-
-!br [group_id] [text]
-!br 123456789 Hello !
-
-
-**U can use both "/" and "!" 
-
-
-*Only admins and sudo can add bots in group
-
-
-*Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-*Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
-tools for InfernalTG :
+Tools for @EternalTg :
 
 >#1.Add_bot
 >#2.Anti_Bot
@@ -352,10 +283,9 @@ tools for InfernalTG :
 >#30.SendPm
 >#31.tagall
 >#32.share
-help all plugin soon :D ,"
 You Can Get Bot version by sending !version,"
-Master admin : @ArashInfernal ,"
-our channel : @INFERNALTEAMCH ,"
+Master admin : @Electrovirus ,"
+our channel : @Ev_official ,"
 
 ]]
   }
