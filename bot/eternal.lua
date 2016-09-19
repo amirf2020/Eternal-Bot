@@ -223,15 +223,16 @@ function create_config( )
     "Maseage",
     "Tagall",
     },
-    sudo_users = {184018132},--Sudo users
+    sudo_users = {99383888},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[infernalTG  v1 - Private Source
 
-Antispambot : @EternalTg
+Antispambot : @tele)nero
 
 Our channels
-@EV_official
+.....
+
 ]],
     help_text_realm = [[
 
